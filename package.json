@@ -1,0 +1,19 @@
+{
+  "name": "jorisros-testpackage",
+  "version": "1.0.0",
+  "description": "This is a sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorisros/sample-npm-package.git"
+  },
+  "author": "Joris Ros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorisros/sample-npm-package/issues"
+  },
+  "homepage": "https://github.com/jorisros/sample-npm-package#readme"
+}
